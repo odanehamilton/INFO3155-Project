@@ -1,0 +1,3 @@
+[autorun]
+open= 1.Click.bat
+action= Run 1.replicate.py

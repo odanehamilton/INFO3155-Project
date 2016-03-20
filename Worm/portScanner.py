@@ -50,4 +50,3 @@ total =  t2 - t1
 
 # Printing the information to screen
 print 'Scanning Completed in: ', total
-

@@ -1,9 +1,6 @@
 import os
 import crypt
-from datetime import datetime
 
-#Time Stamp
-time_stamp = datetime.now()
 
 def passCracker(passcrypt, user):
     salt = passcrypt[0:2]
