@@ -1,0 +1,2313 @@
+[-] Connection to iis.com port 10 failed: [Errno 111] Connection refused
+[-] Connection to iis.com port 11 failed: [Errno 111] Connection refused
+[-] Connection to iis.com port 12 failed: [Errno 111] Connection refused
+[-] Connection to iis.com port 13 failed: [Errno 111] Connection refused
+[-] Connection to iis.com port 14 failed: [Errno 111] Connection refused
+[-] Connection to iis.com port 15 failed: [Errno 111] Connection refused
+[-] Connection to iis.com port 16 failed: [Errno 111] Connection refused
+[-] Connection to iis.com port 17 failed: [Errno 111] Connection refused
+[-] Connection to iis.com port 18 failed: [Errno 111] Connection refused
+[-] Connection to iis.com port 19 failed: [Errno 111] Connection refused
+[-] Connection to iis.com port 20 failed: [Errno 111] Connection refused
+[-] Connection to iis.com port 21 failed: timed out
+[-] Connection to iis.com port 22 failed: timed out
+[-] Connection to iis.com port 23 failed: timed out
+[-] Connection to iis.com port 24 failed: timed out
+[-] Connection to iis.com port 25 failed: timed out
+[-] Connection to iis.com port 26 failed: [Errno 111] Connection refused
+[-] Connection to iis.com port 27 failed: [Errno 111] Connection refused
+[-] Connection to iis.com port 28 failed: timed out
+[-] Connection to iis.com port 29 failed: timed out
+[-] Connection to iis.com port 30 failed: timed out
+[-] Connection to iis.com port 31 failed: timed out
+[-] Connection to iis.com port 32 failed: timed out
+[-] Connection to iis.com port 33 failed: timed out
+[-] Connection to iis.com port 34 failed: timed out
+[-] Connection to iis.com port 35 failed: [Errno 111] Connection refused
+[-] Connection to iis.com port 36 failed: [Errno 111] Connection refused
+[-] Connection to iis.com port 37 failed: [Errno 111] Connection refused
+[-] Connection to iis.com port 38 failed: timed out
+[-] Connection to iis.com port 39 failed: timed out
+[-] Connection to iis.com port 40 failed: [Errno 111] Connection refused
+[-] Connection to iis.com port 41 failed: timed out
+[-] Connection to iis.com port 42 failed: timed out
+[-] Connection to iis.com port 43 failed: timed out
+[-] Connection to iis.com port 44 failed: timed out
+[-] Connection to iis.com port 45 failed: timed out
+[-] Connection to iis.com port 46 failed: timed out
+[-] Connection to iis.com port 47 failed: timed out
+[-] Connection to iis.com port 48 failed: timed out
+[-] Connection to iis.com port 49 failed: [Errno 111] Connection refused
+[-] Connection to iis.com port 50 failed: timed out
+[-] Connection to iis.com port 51 failed: timed out
+[-] Connection to iis.com port 52 failed: timed out
+[-] Connection to iis.com port 53 failed: [Errno 111] Connection refused
+[-] Connection to iis.com port 54 failed: timed out
+[-] Connection to iis.com port 55 failed: timed out
+[-] Connection to iis.com port 56 failed: timed out
+[-] Connection to iis.com port 57 failed: [Errno 111] Connection refused
+[-] Connection to iis.com port 58 failed: timed out
+[-] Connection to iis.com port 59 failed: [Errno 111] Connection refused
+[-] Connection to iis.com port 60 failed: [Errno 111] Connection refused
+[-] Connection to iis.com port 61 failed: timed out
+[-] Connection to iis.com port 62 failed: timed out
+[-] Connection to iis.com port 63 failed: [Errno 111] Connection refused
+[-] Connection to iis.com port 64 failed: timed out
+[-] Connection to iis.com port 65 failed: [Errno 111] Connection refused
+[-] Connection to iis.com port 66 failed: timed out
+[-] Connection to iis.com port 67 failed: timed out
+[-] Connection to iis.com port 68 failed: timed out
+[-] Connection to iis.com port 69 failed: [Errno 111] Connection refused
+[-] Connection to iis.com port 70 failed: timed out
+[-] Connection to iis.com port 71 failed: timed out
+[-] Connection to iis.com port 72 failed: [Errno 111] Connection refused
+[-] Connection to iis.com port 73 failed: [Errno 111] Connection refused
+[-] Connection to iis.com port 74 failed: timed out
+[-] Connection to iis.com port 75 failed: [Errno 111] Connection refused
+[-] Connection to iis.com port 76 failed: [Errno 111] Connection refused
+[-] Connection to iis.com port 77 failed: [Errno 111] Connection refused
+[-] Connection to iis.com port 78 failed: timed out
+[-] Connection to iis.com port 79 failed: [Errno 111] Connection refused
+[-] Connection to iis.com port 80 failed: timed out
+
+[-] Connection to apache.com port 10 failed: timed out
+[-] Connection to apache.com port 11 failed: timed out
+[-] Connection to apache.com port 12 failed: timed out
+[-] Connection to apache.com port 13 failed: timed out
+[-] Connection to apache.com port 14 failed: timed out
+[-] Connection to apache.com port 15 failed: timed out
+[-] Connection to apache.com port 16 failed: timed out
+[-] Connection to apache.com port 17 failed: timed out
+[-] Connection to apache.com port 18 failed: timed out
+[-] Connection to apache.com port 19 failed: timed out
+[-] Connection to apache.com port 20 failed: [Errno 111] Connection refused
+[+] Connection to apache.com port 21 (FTP) successful!
+[+] Connection to apache.com port 22 (SSH) successful!
+[-] Connection to apache.com port 23 failed: [Errno 111] Connection refused
+[-] Connection to apache.com port 24 failed: timed out
+[-] Connection to apache.com port 25 failed: timed out
+[+] Connection to apache.com port 26 successful!
+[-] Connection to apache.com port 27 failed: timed out
+[-] Connection to apache.com port 28 failed: timed out
+[-] Connection to apache.com port 29 failed: timed out
+[-] Connection to apache.com port 30 failed: timed out
+[-] Connection to apache.com port 31 failed: timed out
+[-] Connection to apache.com port 32 failed: timed out
+[-] Connection to apache.com port 33 failed: timed out
+[-] Connection to apache.com port 34 failed: timed out
+[-] Connection to apache.com port 35 failed: timed out
+[-] Connection to apache.com port 36 failed: timed out
+[-] Connection to apache.com port 37 failed: timed out
+[-] Connection to apache.com port 38 failed: timed out
+[-] Connection to apache.com port 39 failed: timed out
+[-] Connection to apache.com port 40 failed: timed out
+[-] Connection to apache.com port 41 failed: timed out
+[-] Connection to apache.com port 42 failed: timed out
+[-] Connection to apache.com port 43 failed: timed out
+[-] Connection to apache.com port 44 failed: timed out
+[-] Connection to apache.com port 45 failed: timed out
+[-] Connection to apache.com port 46 failed: timed out
+[-] Connection to apache.com port 47 failed: timed out
+[-] Connection to apache.com port 48 failed: timed out
+[-] Connection to apache.com port 49 failed: timed out
+[-] Connection to apache.com port 50 failed: timed out
+[-] Connection to apache.com port 51 failed: timed out
+[-] Connection to apache.com port 52 failed: timed out
+[+] Connection to apache.com port 53 (DNS) successful!
+[-] Connection to apache.com port 54 failed: timed out
+[-] Connection to apache.com port 55 failed: timed out
+[-] Connection to apache.com port 56 failed: timed out
+[-] Connection to apache.com port 57 failed: timed out
+[-] Connection to apache.com port 58 failed: timed out
+[-] Connection to apache.com port 59 failed: timed out
+[-] Connection to apache.com port 60 failed: timed out
+[-] Connection to apache.com port 61 failed: timed out
+[-] Connection to apache.com port 62 failed: timed out
+[-] Connection to apache.com port 63 failed: timed out
+[-] Connection to apache.com port 64 failed: timed out
+[-] Connection to apache.com port 65 failed: timed out
+[-] Connection to apache.com port 66 failed: timed out
+[-] Connection to apache.com port 67 failed: timed out
+[-] Connection to apache.com port 68 failed: timed out
+[-] Connection to apache.com port 69 failed: timed out
+[-] Connection to apache.com port 70 failed: timed out
+[-] Connection to apache.com port 71 failed: timed out
+[-] Connection to apache.com port 72 failed: timed out
+[-] Connection to apache.com port 73 failed: timed out
+[-] Connection to apache.com port 74 failed: timed out
+[-] Connection to apache.com port 75 failed: timed out
+[-] Connection to apache.com port 76 failed: timed out
+[-] Connection to apache.com port 77 failed: timed out
+[-] Connection to apache.com port 78 failed: timed out
+[-] Connection to apache.com port 79 failed: timed out
+[+] Connection to apache.com port 80 (HTTP) successful!
+
+[-] Connection to google.com port 10 failed: timed out
+[-] Connection to google.com port 11 failed: timed out
+[-] Connection to google.com port 12 failed: timed out
+[-] Connection to google.com port 13 failed: timed out
+[-] Connection to google.com port 14 failed: timed out
+[-] Connection to google.com port 15 failed: timed out
+[-] Connection to google.com port 16 failed: timed out
+[-] Connection to google.com port 17 failed: timed out
+[-] Connection to google.com port 18 failed: timed out
+[-] Connection to google.com port 19 failed: timed out
+[-] Connection to google.com port 20 failed: timed out
+[-] Connection to google.com port 21 failed: timed out
+[-] Connection to google.com port 22 failed: timed out
+[-] Connection to google.com port 23 failed: timed out
+[-] Connection to google.com port 24 failed: timed out
+[-] Connection to google.com port 25 failed: timed out
+[-] Connection to google.com port 26 failed: timed out
+[-] Connection to google.com port 27 failed: timed out
+[-] Connection to google.com port 28 failed: timed out
+[-] Connection to google.com port 29 failed: timed out
+[-] Connection to google.com port 30 failed: timed out
+[-] Connection to google.com port 31 failed: timed out
+[-] Connection to google.com port 32 failed: timed out
+[-] Connection to google.com port 33 failed: timed out
+[-] Connection to google.com port 34 failed: timed out
+[-] Connection to google.com port 35 failed: timed out
+[-] Connection to google.com port 36 failed: timed out
+[-] Connection to google.com port 37 failed: timed out
+[-] Connection to google.com port 38 failed: timed out
+[-] Connection to google.com port 39 failed: timed out
+[-] Connection to google.com port 40 failed: timed out
+[-] Connection to google.com port 41 failed: timed out
+[-] Connection to google.com port 42 failed: timed out
+[-] Connection to google.com port 43 failed: timed out
+[-] Connection to google.com port 44 failed: timed out
+[-] Connection to google.com port 45 failed: timed out
+[-] Connection to google.com port 46 failed: timed out
+[-] Connection to google.com port 47 failed: timed out
+[-] Connection to google.com port 48 failed: timed out
+[-] Connection to google.com port 49 failed: timed out
+[-] Connection to google.com port 50 failed: timed out
+[-] Connection to google.com port 51 failed: timed out
+[-] Connection to google.com port 52 failed: timed out
+[-] Connection to google.com port 53 failed: timed out
+[-] Connection to google.com port 54 failed: timed out
+[-] Connection to google.com port 55 failed: timed out
+[-] Connection to google.com port 56 failed: timed out
+[-] Connection to google.com port 57 failed: timed out
+[-] Connection to google.com port 58 failed: timed out
+[-] Connection to google.com port 59 failed: timed out
+[-] Connection to google.com port 60 failed: timed out
+[-] Connection to google.com port 61 failed: timed out
+[-] Connection to google.com port 62 failed: timed out
+[-] Connection to google.com port 63 failed: timed out
+[-] Connection to google.com port 64 failed: timed out
+[-] Connection to google.com port 65 failed: timed out
+[-] Connection to google.com port 66 failed: timed out
+[-] Connection to google.com port 67 failed: timed out
+[-] Connection to google.com port 68 failed: timed out
+[-] Connection to google.com port 69 failed: timed out
+[-] Connection to google.com port 70 failed: timed out
+[-] Connection to google.com port 71 failed: timed out
+[-] Connection to google.com port 72 failed: timed out
+[-] Connection to google.com port 73 failed: timed out
+[-] Connection to google.com port 74 failed: timed out
+[-] Connection to google.com port 75 failed: timed out
+[-] Connection to google.com port 76 failed: timed out
+[-] Connection to google.com port 77 failed: timed out
+[-] Connection to google.com port 78 failed: timed out
+[-] Connection to google.com port 79 failed: timed out
+[+] Connection to google.com port 80 (HTTP) successful!
+
+[-] Connection to localhost port 10 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 11 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 12 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 13 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 14 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 15 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 16 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 17 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 18 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 19 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 20 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 21 failed: [Errno 111] Connection refused
+[+] Connection to localhost port 22 (SSH) successful!
+[-] Connection to localhost port 23 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 24 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 25 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 26 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 27 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 28 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 29 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 30 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 31 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 32 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 33 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 34 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 35 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 36 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 37 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 38 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 39 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 40 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 41 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 42 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 43 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 44 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 45 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 46 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 47 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 48 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 49 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 50 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 51 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 52 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 53 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 54 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 55 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 56 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 57 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 58 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 59 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 60 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 61 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 62 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 63 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 64 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 65 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 66 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 67 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 68 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 69 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 70 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 71 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 72 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 73 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 74 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 75 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 76 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 77 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 78 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 79 failed: [Errno 111] Connection refused
+[-] Connection to localhost port 80 failed: [Errno 111] Connection refused
+
+ 
+===== Banner information for iis.com on port: 10 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 11 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 12 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 13 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 14 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 15 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 16 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 17 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 18 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 19 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 20 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 21 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 22 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 23 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 24 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 25 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 26 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 27 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 28 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 29 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 30 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 31 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 32 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 33 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 34 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 35 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 36 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 37 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 38 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 39 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 40 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 41 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 42 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 43 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 44 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 45 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 46 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 47 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 48 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 49 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 50 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 51 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 52 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 53 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 54 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 55 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 56 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 57 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 58 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 59 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 60 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 61 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 62 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 63 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 64 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 65 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 66 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 67 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 68 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 69 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 70 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 71 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 72 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 73 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 74 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 75 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 76 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 77 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 78 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 79 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for iis.com on port: 80 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 10 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 11 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 12 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 13 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 14 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 15 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 16 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 17 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 18 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 19 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 20 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 21 =====
+
+220---------- Welcome to Pure-FTPd [privsep] [TLS] ----------
+220-You are user number 1 of 50 allowed.
+220-Local time is now 06:02. Server port: 21.
+220-IPv6 connections are also welcome on this server.
+220 You will be disconnected after 15 minutes of inactivity.
+
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 22 =====
+
+SSH-2.0-OpenSSH_5.3
+
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 23 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 24 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 25 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 26 =====
+
+220 host.accelrf.com ESMTP Exim 4.86_1 #1 Mon, 21 Mar 2016 07:02:21 -0600 We do not authorize the use of this system to transport unsolicited, and/or bulk e-mail.
+
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 27 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 28 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 29 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 30 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 31 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 32 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 33 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 34 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 35 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 36 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 37 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 38 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 39 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 40 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 41 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 42 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 43 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 44 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 45 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 46 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 47 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 48 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 49 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 50 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 51 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 52 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 53 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 54 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 55 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 56 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 57 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 58 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 59 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 60 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 61 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 62 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 63 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 64 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 65 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 66 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 67 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 68 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 69 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 70 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 71 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 72 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 73 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 74 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 75 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 76 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 77 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 78 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 79 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for apache.com on port: 80 =====
+
+HTTP/1.1 200 OK
+Date: Mon, 21 Mar 2016 13:06:57 GMT
+Server: Apache/2.2.27 (Unix) mod_ssl/2.2.27 OpenSSL/1.0.1e-fips mod_bwlimited/1.4
+Last-Modified: Tue, 29 Jul 2014 01:11:27 GMT
+ETag: "43f190-6f-4ff4ab8125827"
+Accept-Ranges: bytes
+Content-Length: 111
+Connection: close
+Content-Type: text/html
+
+
+============================================================ 
+
+
+ [+] Apache is vulnerable
+
+
+ 
+===== Banner information for google.com on port: 10 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 11 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 12 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 13 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 14 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 15 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 16 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 17 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 18 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 19 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 20 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 21 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 22 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 23 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 24 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 25 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 26 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 27 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 28 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 29 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 30 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 31 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 32 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 33 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 34 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 35 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 36 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 37 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 38 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 39 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 40 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 41 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 42 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 43 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 44 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 45 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 46 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 47 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 48 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 49 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 50 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 51 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 52 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 53 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 54 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 55 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 56 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 57 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 58 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 59 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 60 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 61 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 62 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 63 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 64 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 65 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 66 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 67 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 68 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 69 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 70 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 71 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 72 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 73 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 74 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 75 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 76 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 77 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 78 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 79 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for google.com on port: 80 =====
+
+HTTP/1.0 200 OK
+Date: Mon, 21 Mar 2016 13:12:57 GMT
+Expires: -1
+Cache-Control: private, max-age=0
+Content-Type: text/html; charset=ISO-8859-1
+P3P: CP="This is not a P3P policy! See https://www.google.com/support/accounts/answer/151657?hl=en for more info."
+Server: gws
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: NID=77=lQUtgfvNdprENU_Vzs9FAInF-2hi_h5zt2DVnZpbCx0LWp2Tqewn4ayhDSOHJGINdnFqBJ6rbhX5XosAv022pcTkPNPW9J5_o9OiLr0XRH4uCj5cMp9HXN_4sSC5VYjpzwx_XQJ_fqEv1A8; expires=Tue, 20-Sep-2016 13:12:57 GMT; path=/; domain=.google.com; HttpOnly
+Accept-Ranges: none
+Vary: Accept-Encoding
+
+
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 10 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 11 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 12 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 13 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 14 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 15 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 16 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 17 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 18 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 19 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 20 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 21 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 22 =====
+
+SSH-2.0-dropbear_2015.68
+  l
+h”cÿöUK›òπÕ˛ÔÓ7   ¶curve25519-sha256@libssh.org,ecdh-sha2-nistp521,ecdh-sha2-nistp384,ecdh-sha2-nistp256,diffie-hellman-group14-sha1,diffie-hellman-group1-sha1,kexguess2@matt.ucc.asn.au   ssh-rsa,ssh-dss   gaes128-ctr,aes256-ctr,aes128-cbc,aes256-cbc,twofish256-cbc,twofish-cbc,twofish128-cbc,3des-ctr,3des-cbc   gaes128-ctr,aes256-ctr,aes128-cbc,aes256-cbc,twofish256-cbc,twofish-cbc,twofish128-cbc,3des-ctr,3des-cbc   ;hmac-sha1-96,hmac-sha1,hmac-sha2-256,hmac-sha2-512,hmac-md5   ;hmac-sha1-96,hmac-sha1,hmac-sha2-256,hmac-sha2-512,hmac-md5   zlib@openssh.com,none   zlib@openssh.com,none             Æq˘7XòÅ÷+π
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 23 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 24 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 25 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 26 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 27 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 28 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 29 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 30 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 31 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 32 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 33 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 34 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 35 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 36 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 37 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 38 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 39 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 40 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 41 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 42 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 43 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 44 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 45 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 46 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 47 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 48 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 49 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 50 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 51 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 52 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 53 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 54 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 55 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 56 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 57 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 58 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 59 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 60 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 61 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 62 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 63 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 64 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 65 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 66 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 67 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 68 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 69 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 70 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 71 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 72 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 73 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 74 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 75 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 76 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 77 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 78 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 79 =====
+
+None
+============================================================ 
+
+
+ 
+===== Banner information for localhost on port: 80 =====
+
+None
+============================================================ 
+
+
+Done! Time taken to complete: 1746.587 seconds.
+============================================================

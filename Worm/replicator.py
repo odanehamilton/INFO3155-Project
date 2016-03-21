@@ -5,13 +5,13 @@ script=argv
 name=str(script[0])
 print name
 
-newpath = r"C:\Users\Jeremy-Dane\Desktop"
-folder='\Hello'
+newpath = r"/home/ubuntu/workspace"
+folder='/Hello'
 directory=newpath+folder
 if not os.path.exists(directory):  
     os.mkdir(directory);
 
-payload= directory+"\payload.txt"
+payload= directory+"/payload.txt"
 
 cmd= 'start'+payload
 os.system(cmd)
